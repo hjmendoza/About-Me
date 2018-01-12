@@ -71,9 +71,9 @@ console.log('User input - answer5:' + answer5);
 if (answer5 === 'no' || answer5 === 'n'){
     //if it's correct, give them a point 
     userPoints++;
-    alert('Correct! I do not however I\'m learning more everyday!')
+    alert('Correct! I do not but I\'m learning more everyday!')
 } else{
     //if it's not correct, tell them to try again
-    alert('Incorrect! I am only a beginnier.');
+    alert('Incorrect! I am only a beginnier but I\'m learning more everyday!.');
 }
 alert('You have ' + userPoints + ' points.');
